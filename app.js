@@ -16,6 +16,7 @@ function pesquisar() {
     let nome = "";
     let descricao = "";
     let tags = "";
+    let idade = "";
 
     // Itera sobre cada dado na lista de dados (assumindo que 'dados' é um array)
     for (let dado of dados) {
@@ -24,8 +25,9 @@ function pesquisar() {
         equipe = dado.equipe.toLowerCase()
         tags = dado.tags.toLowerCase()
         nacionalidade = dado.nacionalidade.toLowerCase()
+        idade = dado.idade.toLowerCase()
         // se nome/descicao/equipe/tags incluir no campoPesquisa
-        if (nome.includes(campoPesquisa) || descricao.includes(campoPesquisa) || equipe.includes(campoPesquisa) || tags.includes(campoPesquisa) || nacionalidade.includes(campoPesquisa) || idade.includes (campoPesquisa)) {
+        if (nome.includes(campoPesquisa) || descricao.includes(campoPesquisa) || equipe.includes(campoPesquisa) || tags.includes(campoPesquisa) || nacionalidade.includes(campoPesquisa) || idade.includes(campoPesquisa)) {
             // Cria uma nova div para cada resultado, formatando o HTML com o nome, descrição e link do dado
             resultados += `
             <div class="item-resultado">
