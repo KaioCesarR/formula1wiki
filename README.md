@@ -1,4 +1,4 @@
-## **Fórmula 1 Wiki: Seu guia para os astros da velocidade! **
+## Fórmula 1 Wiki: Seu guia para os astros da velocidade! #ImersãoDEV #Alura
 
 **O que é?**
 
@@ -32,13 +32,4 @@ Uma página simples e divertida para você descobrir tudo sobre seus pilotos de 
 
 **Contribua, compartilhe e divirta-se!**
 
-**#F1 #Pilotos #Wiki #JavaScript #HTML #CSS #GitHub**
-
-**Observações:**
-
-* Este readme foi escrito de forma descontraída e informal para atrair mais colaboradores.
-* As seções podem ser personalizadas de acordo com o seu projeto e preferências.
-* Use emojis para tornar o texto mais divertido e fácil de ler.
-* Adicione links para os repositórios do GitHub e para outros recursos relevantes.
-
-**Lembre-se:** Um bom readme é a porta de entrada para o seu projeto. Ele deve ser claro, conciso e convidativo para que as pessoas queiram explorar o seu código e contribuir com ele.
+**#F1 #Pilotos #Wiki #JavaScript #HTML #CSS #GitHub #ImersãoDEV**
